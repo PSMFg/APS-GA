@@ -1,0 +1,24 @@
+Based papers for this benchmark:
+*1 → Better GP benchmarks community survey results and proposals (2013).
+*2 → Approaches and Applications of Inductive Programming.
+*3 → HELMUTH, Thomas; SPECTOR, Lee. Detailed problem descriptions for general program synthesis benchmark suite. Technical Report UM-CS-2015-006. Computer Science, University of Massachusetts, Amherst. https://web.cs.umass.edu/publication/docs/2015/UM-CS-2015-006.pdf, 2015.
+*4 -> General Program Synthesis Benchmark Suite (2015).
+
+1- (ok) Max2 (SYGUS competition)
+2- (ok) Max3 (SYGUS competition)
+3- (ok) Max4 (SYGUS competition)
+4- (ok) Maj3 (6.5 Synthetic problems from the paper *1)
+5- (ok) Maj5 (6.5 Synthetic problems from the paper *1)
+6- (ok) Add2 – add two integers (paper *2 already tested from the community)
+7- (ok) Add3 – add three integers  (paper *2 already tested from the community)
+8- (ok) Add4 – add four integers  (paper *2 already tested from the community)
+9- (ok) Fibonacci numbers (paper *2 already tested from the community)
+10- (ok) Multiply - with no Mult operator  (paper *2 already tested from the community)
+11- (ok) Square Root (paper *2 Did not test from the community)
+12- (ok) Factorial non-recursive version (paper *2 Did not test from the community)
+13- (ok) Modulo returns remainder of num/divisor without using % operator (paper *2 Did not test from the community)
+14- (ok) Sum of Squares (Q 8.5.4) Given integer n, return the sum of squaring each integer in the range [1; n].  (paper *4)
+15- (ok)Median Given 3 integers, print their median (paper *4)
+16- (ok) GCD (we are going to propose this program).
+17- (ok) Maj8 (2016 Krawiec's book chapter 10 - experimental setup)
+
